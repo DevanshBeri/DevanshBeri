@@ -2,7 +2,7 @@
 <h3 align="center">😎 A passionate software developer from India 😎</h3>
 
 
-<img align ="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align ="right" width="400px" src="https://camo.githubusercontent.com/501660359e82e8e9064ff0b35c7d2c72b0376c1bafc997405a7edc0a83876eb0/68747470733a2f2f692e6962622e636f2f766d4d593352592f67697472696768742e77656270">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshberi&label=Profile%20views&color=0e75b6&style=flat" alt="devanshberi" /> </p>
 
 
