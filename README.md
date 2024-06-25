@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **PYTHON - DATA SCIENCE**
+- 🌱 I’m currently learning **GenAi**
 
 - 📫 How to reach me **Devanshberi913@gmail.com**
 
